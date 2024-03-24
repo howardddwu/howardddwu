@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @howardddwu, an undergrad at City Collegeof New York in CS major
-- 👀 I’m interested in Machine Learning and App Developing
-- 🌱 I’m currently learning Python Java and others related to Machine Learning.
+- 👋 Hi, I’m @howardddwu, an QA Analyst/Rapid Development Analyst
+- 👀 I’m interested in Information Technology.
+- 🌱 I’m currently learning Cybersecurity.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me howardddwu@gmail.com
 
