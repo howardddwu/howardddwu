@@ -4,7 +4,7 @@ I'm a **QA Analyst** with a growing focus on **Automation Testing**, passionate 
 
 ## 🧪 QA & Testing Experience
 
-- 💼 **Current Role**: QA Analyst at [Your Company Name]
+- 💼 **Current Role**: QA Analyst at Innovative Business Concepts
 - 🔍 Manual testing: Web, mobile, and API testing
 - 🤖 Automation: Writing test scripts with **Playwright**, **Selenium**, and **Postman**
 - 📋 Test case management: **TestRail**, **Jira**, **Zephyr**
@@ -33,11 +33,11 @@ I'm a **QA Analyst** with a growing focus on **Automation Testing**, passionate 
 
 - ☁️ Cloud-based testing platforms (BrowserStack, AWS Device Farm)
 - 🧪 Advanced Playwright features (test retries, video capture)
-- 🔐 Security and performance testing basics
+
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourname)
+- 💼 [LinkedIn](https://www.linkedin.com/in/howardddwu1920441b6/)
 - 💬 Ask me about QA automation, bug tracking, or how to transition from manual to automated testing!
 
 ---
